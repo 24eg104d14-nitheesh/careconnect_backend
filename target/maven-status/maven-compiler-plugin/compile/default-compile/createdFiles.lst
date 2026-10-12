@@ -1,0 +1,6 @@
+com\careconnect\CareConnectApplication.class
+com\careconnect\controller\AiTriageController.class
+com\careconnect\controller\AuthController.class
+com\careconnect\config\CorsConfig.class
+com\careconnect\controller\AppointmentController.class
+com\careconnect\controller\DoctorController.class
